@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+/* font-family: 'Macondo', cursive; */
+
+
+/*  This is a comment */
+
+body {
+    margin: 0px;
+}
+
+h1 {
+    color: cornflowerblue;
+    font-size: 12px;
+}
+/* This is how to target an element in HTML */
+
+.large {
+    font-size: 30px;
+}
+/* This is how to target a class */
+
+.center {
+    text-align: center;
+}
+
+#purple {
+    color: rgb(219, 17, 219);
+}
+
+.one {
+    background-color: rgb(90, 180, 183, 0.5);
+    padding: 0px 0px 0px 0px;
+}
+
+#chocobo {
+    border-radius: 50%;
+}
+
+img {
+    width: 70%;
+}
+
+p {
+    font-family: 'Macondo', cursive;
+}
+
+#planet {
+    height: 700px;
+}
